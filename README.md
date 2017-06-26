@@ -1,3 +1,9 @@
+Links:
+https://github.com/ojp2110/Ozzie-Pardilla-Week-5-Final-Project/commit/01150d3ade37a92ad4b5d49162627bb7e2f89716
+https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/
+https://youtu.be/_X5skWyLtI0
+
+
 # Ozzie Pardilla Week 5 Final Project June 25th, 2017 MSTU 5003 Professor Jin Kuwata
 This is my Week 5 Final Project README.MD
 
