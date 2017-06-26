@@ -2,21 +2,12 @@
 This is my Week 5 Final Project README.MD
 
 Links:
-<<<<<<< HEAD
 <ol>
 <li>See Repository:https://github.com/ojp2110/Ozzie-Pardilla-Week-5-Final-Project
-<li>See Demonstration:https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/<br>
+<li>See Demonstration:https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/
 <li>See Video:https://youtu.be/_X5skWyLtI0
 </ol>
 =======
-#See Repository:https://github.com/ojp2110/Ozzie-Pardilla-Week-5-Final-Project
-#See Demonstration:https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/
-##https://youtu.be/_X5skWyLtI0
-
-
->>>>>>> 6bd8683c0eeb895388f6e67df9b9398afcde8cfd
-
-
 
 This project is a 3 page website that features two quizzes. The quizzes are designed to return feedback to the
 end user in various forms from the main.js
