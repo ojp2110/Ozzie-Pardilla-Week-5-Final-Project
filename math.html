@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>QUIZ WORLD-MATH Quiz</title>
+
+
+  <!-- Bootstrap -->
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+  <script language="javascript" src="js/main.js"></script>
+
+
+</head>
+
+
+
+
+<body>
+
+  <header>
+
+
+    <!--NAV AREA-->
+
+
+
+    <div id="navbar">
+
+      <nav class="navbar navbar-inverse">
+        <div class="navbar navbar-default-fixed-top">
+
+          <div class="container-fluid">
+
+            <div class="navbar-header">
+
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+                <span class="icon-bar"></span>
+
+               <span class="icon-bar"></span>
+
+               <span class="icon-bar"></span>
+
+             </button>
+
+              <div class="slogan">
+                <div class="row">
+                  <div class="col-sm-4"><img src="https://github.com/ojp2110/drummer/blob/master/quizworld_up.gif?raw=true" alt="qwup" id="logo" onmouseover="change()" onmouseout="change()" onclick="change()" width="90" height="90"></div>
+                  <div class="col-m-8">
+                    <h2> Welcome to QUIZ WORLD!</h2></div>
+                </div>
+              </div>
+            </div>
+
+
+            <!--Navbar buttons-->
+
+            <div class="navbar-collapse collapse">
+
+              <ul class="nav navbar-nav navbar-right">
+
+                <li><a href="index.html">HOME</a></li>
+
+                <li><a href="math.html">MATH</a></li>
+
+                <li><a href="geography.html">GEOGRAPHY</a></li>
+
+              </ul>
+
+
+              </div>
+          </nav>
+       </div>
+     </div>
+   </div>
+ </div>
+</header>
+
+
+  <!--Middle Content-->
+
+  <section id="middle-text">
+    <div class="container">
+
+      <h3>Welcome to the MATH QUIZ!<h3>
+
+
+<div id="quizContainer"></div>
+<h4>Please Answer the questions below</h4>
+<div id="quizResults"><font size=3>&nbsp;</font></div>
+<div id="mathQ">
+
+<form name ="mathQuestions" onsubmit="submitAnswers()">
+
+
+ <h4>1.What is the opposite of mutliplication?</h4>
+
+  <input type="radio" name="q0" value="Subtraction" id="q1a" onclick="userAlert()">
+a. Subtraction<br>
+  <input type="radio" name="q0" value="Addition" id="q1b" onclick="userAlert()">
+b. Addition<br>
+  <input type="radio" name="q0" value="Division" id="q1c" onclick="userAlert()">
+c. Division<br>
+  <input type="radio" name="q0" value="None of These" id="q1d" onclick="userAlert()">
+d. None of These<br>
+
+
+<h4>2. What does 3 x 3 = ?</h4>
+
+  <input type="radio" name="q1" value="6" id="q2a" onclick="userAlert()">
+   a. 6<br>
+  <input type="radio" name="q1" value="9" id="q2b" onclick="userAlert()">
+   b. 9<br>
+  <input type="radio" name="q1" value="0" id="q2c" onclick="userAlert()">
+   c. 0<br>
+  <input type="radio" name="q1" value="7" id="q2d" onclick="userAlert()">
+   d. 7<br>
+
+<h4>3. What does 12/3 = ?</h4>
+
+  <input type="radio" name="q2" value="6" id="q3a" onclick="userAlert()">
+  a. 6<br>
+  <input type="radio" name="q2" value="2" id="q3b" onclick="userAlert()">
+  b. 2<br>
+  <input type="radio" name="q2" value="4" id="q3c" onclick="userAlert()">
+  c. 4<br>
+  <input type="radio" name="q2" value="12" id="q3d" onclick="userAlert()">
+  d. 12<br>
+
+
+<h4>4. What is does 13 x 2 = ?</h4>
+
+  <input type="radio" name="q3" value="24" id="q4a" onclick="userAlert()">
+  a. 24<br>
+  <input type="radio" name="q3" value="36" id="q4b" onclick="userAlert()">
+  b. 36<br>
+  <input type="radio" name="q3" value="32" id="q4c" onclick="userAlert()">
+  c. 32<br>
+  <input type="radio" name="q3" value="26" id="q4d" onclick="userAlert()">
+  d. 26
+
+    </div>
+
+<input type="button" value="submit" onclick="submitAnswers()">
+</form>
+
+
+
+</section>
+
+
+
+</body>
+
+</html>
