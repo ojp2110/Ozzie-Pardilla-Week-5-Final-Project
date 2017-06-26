@@ -5,6 +5,8 @@ Links:
 #See Repository:https://github.com/ojp2110/Ozzie-Pardilla-Week-5-Final-Project
 #See Demonstration:https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/
 ##https://youtu.be/_X5skWyLtI0
+#See Demonstration:https://ojp2110.github.io/Ozzie-Pardilla-Week-5-Final-Project/<br>
+#See Video:https://youtu.be/_X5skWyLtI0
 
 
 
